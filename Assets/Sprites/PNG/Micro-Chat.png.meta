@@ -1,0 +1,3340 @@
+fileFormatVersion: 2
+guid: 7ab095a28e3a44368bba0501c9105175
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Micro-Chat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17982af4ec5b44f2a8a9ab1df4a07441
+      internalID: 144152950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199647aed37db479782b2a28176a495c
+      internalID: 314967882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43adde76ed0554744b88a4eac1bba9eb
+      internalID: -1134728750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd80c12084c8445abc57a7521a0cd47
+      internalID: -1545535416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21220e921e1174acf8ddf650972cde07
+      internalID: -1336247047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4078839bbf784179acc368d97d5d275
+      internalID: -2144851565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c7837728c5d498ca4bdf0d046d4b56
+      internalID: 767461461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3cc4bd18ea34309a93378c47087b27
+      internalID: 1887695500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba850cf003d451fb1254b60c0a6425
+      internalID: 982227052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7e0a367189473db8ee03f90ec8463
+      internalID: -958144156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb2a55f7c514dd791e5af360b25d99
+      internalID: -414323883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1860d08a2d4050921020b727e3b63
+      internalID: -362148712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2399dbbd2b54a0494cc87e025d4947
+      internalID: 353188082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1d008dd21240a99d9c2e3f0e7ca1c
+      internalID: 177871692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4920cfc1142347648c31f4f35537a4f
+      internalID: 1810970970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f757846a0f24c5caf9b8ed5010475c
+      internalID: -1625431286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58470df33a9904973b00600d5490ca5a
+      internalID: 769092080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cf621a6f6b4c88bc84b68afa7470f
+      internalID: 1741410045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f96ba1c5255d44b3bcb995a7a9ab057
+      internalID: 1124066565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78356728b2765435d9a6561bdd7d5ea5
+      internalID: -1363156972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608db5d5137a4397bf8bcf11c981afa
+      internalID: 939109496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239ec6a2446d45ce873367e45ae5c49
+      internalID: 2054938562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c9d45ed924420386e88879e694a4f
+      internalID: -1635306475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 210
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ad71773efe438084dcd759af20ec1
+      internalID: -936912982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fbcef829f424b1489fa74d9a9edf53
+      internalID: 1283547207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 199
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29024730283b4f0da2592a18c694604
+      internalID: -2068177917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf368df15e0004c3ba3a5b265222591b
+      internalID: 528393664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 188
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63f428ab4f64b53927d04cf68ab06e
+      internalID: -2049239644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a277128e750d4d80b0abcaecaccc63b
+      internalID: -947246906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 188
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd726d538518d44dc961cbbdc5788f47
+      internalID: 427845217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b514c710954fa28bde2439838c4df
+      internalID: 1467091589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 188
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02f7fa1f6fc49808c9fab2e26ba89d
+      internalID: -899987931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 186
+        width: 6
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479b7947197c4b88a802d6ed79336a8
+      internalID: 180590603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 188
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d08c63ff40540bca028c3ba6b5369e
+      internalID: -1800857154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443a6b87085b48878816014d937d609
+      internalID: -473284568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 176
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f49205686c3460fa39bec78437aced
+      internalID: 1942521358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 177
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e9098fceb64aaaac9c6db0dc149bc
+      internalID: 2053774420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 177
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb577683cee24ed5bb66816647942ad
+      internalID: -1546533548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f33affae50492d884b8177629d1a4
+      internalID: 32295418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 177
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750ab240c3c4c42f491cd40347809551
+      internalID: -448157433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 177
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4ae2845c6842339d30d373288b26e
+      internalID: -189035215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 176
+        width: 6
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481cecaf696e4d9cb3a264aa9803a09
+      internalID: 470011064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 6
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f352bb11e36541d89f24b3a16cc100c
+      internalID: 1255643306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 5
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec47456de769457e86a6867a29909ef
+      internalID: -1796053190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 166
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd676fa7cac4b3eb2cb89b2dbfe970
+      internalID: 1686368025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 166
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba68123574bd4d53a2cd598f3041109
+      internalID: 971471911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94bc72ad4a94ae39b4b578ad94f873
+      internalID: -1030200827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 166
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d73383928a42400bae39d61c5a48b21
+      internalID: 1262052633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 166
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577550f28f9f49bd9e77281fcb972d0
+      internalID: -1734678591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 166
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718b23bf3e19148da9fc74348e7b32cf
+      internalID: -1969691550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 6
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11ef361600d44c3a89cf9936576b1e1
+      internalID: 1446913301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 155
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a141e8b7507c4be99cc8f92fa379550
+      internalID: -1365895340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b7bef8b90b4ad89f59a15fe5d684a
+      internalID: -777945130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa680e65e1745bb8e0a390ff81311d
+      internalID: 132084936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be4495a9aab41b7ac679d383bebd5e
+      internalID: 1459874029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cbb3c19613445ca901d099f6462820
+      internalID: 1876580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888fcd8b7455c4427bba1b217065c4dd
+      internalID: 784747459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b7d3910b5642438b2d33ef13d19b5
+      internalID: -1346752632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8e752e2bfa44e2902ec6c40df6218
+      internalID: 1469428988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 144
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033bbcda4e96a489e8a8425ebd4a3537
+      internalID: 491032153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: -0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e92d731d48447c380524034223f376
+      internalID: 1119145693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e442225688454bb1664f15d3efc19
+      internalID: -69539881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 6
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02b3d1f14554424887f762b559c3e7
+      internalID: 549343612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 3
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3598063a40f44e3b55692f4ba58245
+      internalID: -519186647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 5
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b65ef2a24ce04a3db2922459e57d4b9
+      internalID: -1333833182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 7
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191c3ce881634425097107d5cb5a56ea
+      internalID: 1272795361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 122
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0560ff13ab27413cb71502e64577c01
+      internalID: 653266575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 122
+        width: 7
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd008b966c2c42aeadfdd2d42edf84a
+      internalID: 1290681224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 7
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b711a49eaa4d75bbf28c5754090b8
+      internalID: -799486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 125
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: -0, y: 0.8571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf041f9a0a7544cc9d370e290507da6
+      internalID: -1227042351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56d62872fcab4c0585ed78d5ad15832
+      internalID: 1859899652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ee0f54e7d240bab382d83b068b542
+      internalID: 486943837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec2efdbcd7641ea8a82cf99e1d8d42
+      internalID: -789294024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da5b804e98a4ca6808f4924568dc6e
+      internalID: -175624731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 111
+        width: 3
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eddce5cc0d04159980cc4709e87ad1
+      internalID: -410139081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebecbf73d11043d18b2a78f76973422
+      internalID: -1536257891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 3
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d52c924f8684ecfa79d5e8a00a1fec
+      internalID: -943795386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76b851ff15649eda76ee367c05cb13
+      internalID: -100985533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0dbf98a62324f68bdb8d45c2c2ad68
+      internalID: -9103464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524edc39775b749e5bbd9cb3993256ed
+      internalID: -1340418634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f03881bb5969420f993412364190622
+      internalID: 412520604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89f1aa2fb49b4c6eb579d0885d1c599
+      internalID: -1803585539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c593e48ef14ac0b9235c44378131f
+      internalID: 566588095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 100
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd81f20a360ce4175b2e979161011339
+      internalID: 502005271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ea8c68d8595431d89d3500d008bf40
+      internalID: -1701136200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b4d726b058d496683618ba69de8ed5
+      internalID: -991287954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902ac25c12a2448788da408f263f6a1
+      internalID: 2126396720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66f9bf4f9bc425fbcc746c072a0427
+      internalID: 441284961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86498938701f14441bddd0581b1bdba3
+      internalID: -1207900869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_89
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cec4d243d454a448fe2199e0162752
+      internalID: -930824551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b50633f23847ca8abae440504c7f4
+      internalID: 1795968777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0c22ab9db3432994c5b288d07f610
+      internalID: -1505477914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32da340a3b87b4356975eb7ff2a1b208
+      internalID: 557681509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e02a256b9249c98dd1a9e981d26ff
+      internalID: 445662942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3ae178e10d417abfe74a298180b97
+      internalID: 529528696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015937bd38d949078a96ffc917fa1af
+      internalID: 991793096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2746c4cce56047609f41f5b00ff34a6
+      internalID: -2068697938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8cc3981714b4a179f004ab54117c89
+      internalID: 84959960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56b103fd18d7401e971d558a84a23f3
+      internalID: 1485392269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8c1fdec73f4598918a203342edc58
+      internalID: 198557817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d7882ec22a4bd29319fbb2c938fe9
+      internalID: 263031065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a8cb458b644c6ab8b1cf341f5f717
+      internalID: -647226010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c564878ffe9624dc381b729dc7bd66db
+      internalID: -1421300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3856cf3f232c494f84412085c5fdf3d
+      internalID: 196530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d6024fe45034d63ae276d46cabcead
+      internalID: 2007597827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e87e0a3296a45b9a3dc6511f53c031
+      internalID: 790193943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_106
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24e05d9a92a47a79451c4225c70b67
+      internalID: -379346271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_107
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7007713d16d4c0dbd9a637c9bc46f1
+      internalID: 1157728383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6390b61187e4a379ddce5d90ce6227
+      internalID: -471630305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdab1e2999de4ff8955ba0f2b2eb03e
+      internalID: 546678562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f436d9f475644da9b35a5a54067156
+      internalID: 1960153860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_111
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea87553dff048778b20a45b816aa49
+      internalID: 499907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da880ca2ef099439ca66e7ee688a651c
+      internalID: -749241283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd22d6ede1f744f1a4f96d5ae77ed05
+      internalID: 1424600452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bde8b9e5bc43d5b47a9340b84d666
+      internalID: -2144785025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3d35e7972d48ccbaca900941dcacb
+      internalID: -1946476000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31fca9b788ee449e8d22f18f492fcdc
+      internalID: -1343621112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_117
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc422755a59422d96990d7afda7554
+      internalID: -1088009400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1ace231bb64c6fb57509613153dc8
+      internalID: -1263691086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3549d2d424f9c427b860415a4e610c1a
+      internalID: 1519517654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028680ea65d24b6690d1227059b04c9
+      internalID: -153663937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151bbb30fb89f42fea69b63d060e8fea
+      internalID: -1766418588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_122
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6d048bce6e4b86b6227ae62bec007
+      internalID: -190926964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_123
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6feb5ca92f34f9c9cf0ff31d01c76d
+      internalID: -248813113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_124
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3726f01df2c1c4d608785dc0cfb2312e
+      internalID: -678912188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_125
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2284cf8f667d84c47970c0debbdf14b9
+      internalID: -897952444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_126
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf97ea57765534c67bf9c667502d5ec7
+      internalID: -920516858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_127
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bd962d9701c40c3a2055f6cc214208
+      internalID: 1009882144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4311901e25497c9672e5df0716646
+      internalID: -1701858415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade88e138bb2f40138905bc12b6d2ad9
+      internalID: -130803553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_130
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afaccab15093483785936e73ccf9fb4
+      internalID: -1715506255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_131
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ae38952c4048409bb8d50fcd5274d
+      internalID: -2071585239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5dac7bbee04022a188e4aa75969e7
+      internalID: -641670113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c667ba5f3b5d4260803612a5f4215e2
+      internalID: -112855434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_134
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e17f65be02b40cebf5334eb791006c
+      internalID: -974728855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_135
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283edeb90a54447f8a4f8f0c91915c8d
+      internalID: 1087932555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e8e807971c84fed81fa97fc9f0623a
+      internalID: -803029255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f741ed368024af3a7cb78ccbc0128b
+      internalID: -996398057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546af4e5cf6c4e208a8cd5019f6543c
+      internalID: -2007769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_139
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef6fbdc397ac42ae9724398123f5438
+      internalID: -1834696462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5febc6672019f4479af472c3eeb6e078
+      internalID: 933582216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_141
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16090163fd8a84fed9eafcd859a331fb
+      internalID: -366869314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_142
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb93c1fb29b246cda761471724f4ac6
+      internalID: -558311626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10e30d328594701a79e0b9caf6a92b
+      internalID: -756015563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e12f886a13f454580832170c792a9a
+      internalID: -1474230924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micro-Chat_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43caea04c58824767b3be58589e2b82c
+      internalID: -1087664773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Micro-Chat_0: 144152950
+      Micro-Chat_1: 314967882
+      Micro-Chat_10: -414323883
+      Micro-Chat_100: 263031065
+      Micro-Chat_101: -647226010
+      Micro-Chat_102: -1421300888
+      Micro-Chat_103: 196530423
+      Micro-Chat_104: 2007597827
+      Micro-Chat_105: 790193943
+      Micro-Chat_106: -379346271
+      Micro-Chat_107: 1157728383
+      Micro-Chat_108: -471630305
+      Micro-Chat_109: 546678562
+      Micro-Chat_11: -362148712
+      Micro-Chat_110: 1960153860
+      Micro-Chat_111: 499907780
+      Micro-Chat_112: -749241283
+      Micro-Chat_113: 1424600452
+      Micro-Chat_114: -2144785025
+      Micro-Chat_115: -1946476000
+      Micro-Chat_116: -1343621112
+      Micro-Chat_117: -1088009400
+      Micro-Chat_118: -1263691086
+      Micro-Chat_119: 1519517654
+      Micro-Chat_12: 353188082
+      Micro-Chat_120: -153663937
+      Micro-Chat_121: -1766418588
+      Micro-Chat_122: -190926964
+      Micro-Chat_123: -248813113
+      Micro-Chat_124: -678912188
+      Micro-Chat_125: -897952444
+      Micro-Chat_126: -920516858
+      Micro-Chat_127: 1009882144
+      Micro-Chat_128: -1701858415
+      Micro-Chat_129: -130803553
+      Micro-Chat_13: 177871692
+      Micro-Chat_130: -1715506255
+      Micro-Chat_131: -2071585239
+      Micro-Chat_132: -641670113
+      Micro-Chat_133: -112855434
+      Micro-Chat_134: -974728855
+      Micro-Chat_135: 1087932555
+      Micro-Chat_136: -803029255
+      Micro-Chat_137: -996398057
+      Micro-Chat_138: -2007769474
+      Micro-Chat_139: -1834696462
+      Micro-Chat_14: 1810970970
+      Micro-Chat_140: 933582216
+      Micro-Chat_141: -366869314
+      Micro-Chat_142: -558311626
+      Micro-Chat_143: -756015563
+      Micro-Chat_144: -1474230924
+      Micro-Chat_145: -1087664773
+      Micro-Chat_146: 1335597588
+      Micro-Chat_15: -1625431286
+      Micro-Chat_16: 769092080
+      Micro-Chat_17: 1741410045
+      Micro-Chat_18: 1124066565
+      Micro-Chat_19: -1363156972
+      Micro-Chat_2: -1134728750
+      Micro-Chat_20: 939109496
+      Micro-Chat_21: 2054938562
+      Micro-Chat_22: -1635306475
+      Micro-Chat_23: -936912982
+      Micro-Chat_24: 1283547207
+      Micro-Chat_25: -2068177917
+      Micro-Chat_26: 528393664
+      Micro-Chat_27: -2049239644
+      Micro-Chat_28: -947246906
+      Micro-Chat_29: 427845217
+      Micro-Chat_3: -1545535416
+      Micro-Chat_30: 1467091589
+      Micro-Chat_31: -899987931
+      Micro-Chat_32: 180590603
+      Micro-Chat_33: -1800857154
+      Micro-Chat_34: -473284568
+      Micro-Chat_35: 1942521358
+      Micro-Chat_36: 2053774420
+      Micro-Chat_37: -1546533548
+      Micro-Chat_38: 32295418
+      Micro-Chat_39: -448157433
+      Micro-Chat_4: -1336247047
+      Micro-Chat_40: -189035215
+      Micro-Chat_41: 470011064
+      Micro-Chat_42: 1255643306
+      Micro-Chat_43: -1796053190
+      Micro-Chat_44: 1686368025
+      Micro-Chat_45: 971471911
+      Micro-Chat_46: -1030200827
+      Micro-Chat_47: 1262052633
+      Micro-Chat_48: -1734678591
+      Micro-Chat_49: -1969691550
+      Micro-Chat_5: -2144851565
+      Micro-Chat_50: 1446913301
+      Micro-Chat_51: -1365895340
+      Micro-Chat_52: -777945130
+      Micro-Chat_53: 132084936
+      Micro-Chat_54: 1459874029
+      Micro-Chat_55: 1876580192
+      Micro-Chat_56: 784747459
+      Micro-Chat_57: -1346752632
+      Micro-Chat_58: 1469428988
+      Micro-Chat_59: 491032153
+      Micro-Chat_6: 767461461
+      Micro-Chat_60: 1119145693
+      Micro-Chat_61: -69539881
+      Micro-Chat_62: 549343612
+      Micro-Chat_63: -519186647
+      Micro-Chat_64: -1333833182
+      Micro-Chat_65: 1272795361
+      Micro-Chat_66: 653266575
+      Micro-Chat_67: 1290681224
+      Micro-Chat_68: -799486503
+      Micro-Chat_69: -1227042351
+      Micro-Chat_7: 1887695500
+      Micro-Chat_70: 1859899652
+      Micro-Chat_71: 486943837
+      Micro-Chat_72: -789294024
+      Micro-Chat_73: -175624731
+      Micro-Chat_74: -410139081
+      Micro-Chat_75: -1536257891
+      Micro-Chat_76: -943795386
+      Micro-Chat_77: -100985533
+      Micro-Chat_78: -9103464
+      Micro-Chat_79: -1340418634
+      Micro-Chat_8: 982227052
+      Micro-Chat_80: 412520604
+      Micro-Chat_81: -1803585539
+      Micro-Chat_82: 566588095
+      Micro-Chat_83: 502005271
+      Micro-Chat_84: -1701136200
+      Micro-Chat_85: -991287954
+      Micro-Chat_86: 2126396720
+      Micro-Chat_87: 441284961
+      Micro-Chat_88: -1207900869
+      Micro-Chat_89: -930824551
+      Micro-Chat_9: -958144156
+      Micro-Chat_90: 1795968777
+      Micro-Chat_91: -1505477914
+      Micro-Chat_92: 557681509
+      Micro-Chat_93: 445662942
+      Micro-Chat_94: 529528696
+      Micro-Chat_95: 991793096
+      Micro-Chat_96: -2068697938
+      Micro-Chat_97: 84959960
+      Micro-Chat_98: 1485392269
+      Micro-Chat_99: 198557817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

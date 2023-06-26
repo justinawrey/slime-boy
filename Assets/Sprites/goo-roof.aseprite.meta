@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 4c2bdba53c60c499787a378c359acb28
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.5625, y: 0.875}
+    spritePadding: 2
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 9
+    customPivotPosition: {x: 0.5625, y: 0.875}
+    spritePadding: 2
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638215716695246390
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: goo-roof
+    originalName: 
+    pivot: {x: 0.5, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 22
+      width: 6
+      height: 6
+    spriteID: bc43a5591735c4e838d3d85b860f9bb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 22}
+  - name: goo-roof_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 18
+      y: 22
+      width: 6
+      height: 6
+    spriteID: e16f840f8a33846ad9e4572204604de8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 22}
+  - name: goo-roof_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 21
+      width: 6
+      height: 6
+    spriteID: b3e396dd05b5c4d32b6f62b7ba635feb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 21}
+  - name: goo-roof_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.42857146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 4
+      width: 6
+      height: 7
+    spriteID: 8b187da7a237c46be853f7ad018a6b2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 4}
+  - name: goo-roof_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 4
+      width: 6
+      height: 9
+    spriteID: 47d388c1b22b1489f83f5206388d2dea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 4}
+  - name: goo-roof_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 6
+      height: 10
+    spriteID: 50b85f8fc38984e498d100ed365668a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: goo-roof_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 18
+      y: 4
+      width: 6
+      height: 10
+    spriteID: cd76f8b2805c445bfbdaa583f8f58f9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 18, y: 4}
+  - name: goo-roof_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 21
+      width: 6
+      height: 6
+    spriteID: e8b97f57b31db4f18b4584227b2f65d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 21}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1285458494
+    name: goo-roof
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: goo-roof_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 6
+        y: 12
+        width: 4
+        height: 4
+      spriteId: bc43a5591735c4e838d3d85b860f9bb6
+    - name: goo-roof_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 12
+        width: 4
+        height: 4
+      spriteId: e16f840f8a33846ad9e4572204604de8
+    - name: goo-roof_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 6
+        y: 12
+        width: 4
+        height: 4
+      spriteId: b3e396dd05b5c4d32b6f62b7ba635feb
+    - name: goo-roof_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 11
+        width: 4
+        height: 5
+      spriteId: 8b187da7a237c46be853f7ad018a6b2b
+    - name: goo-roof_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 9
+        width: 4
+        height: 7
+      spriteId: 47d388c1b22b1489f83f5206388d2dea
+    - name: goo-roof_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 6
+        y: 8
+        width: 4
+        height: 8
+      spriteId: 50b85f8fc38984e498d100ed365668a2
+    - name: goo-roof_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 8
+        width: 4
+        height: 8
+      spriteId: cd76f8b2805c445bfbdaa583f8f58f9b
+    - name: goo-roof_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 12
+        width: 4
+        height: 4
+      spriteId: e8b97f57b31db4f18b4584227b2f65d6
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 16, y: 16}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PauseMenu
+  - SceneTransitionTrigger
+  - DialogueCaret
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Splotches
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2513426771
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 3598926085
+    locked: 0
+  - name: Dialog
+    uniqueID: 632330915
+    locked: 0
