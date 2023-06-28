@@ -21,11 +21,20 @@ public class AfterUpscaleFullScreenPassFeature : ScriptableRendererFeature
     public override void OnCameraSetup(CommandBuffer cmd, ref RenderingData renderingData)
     {
       rtUpscaled = renderingData.cameraData.renderer.GetUpscaledTextureHandle();
-      RenderingUtils.ReAllocateIfNeeded(ref rtTemp, rtUpscaled.rt.descriptor, name: "_TemporaryColorTexture");
+
+      if (rtUpscaled != null)
+      {
+        RenderingUtils.ReAllocateIfNeeded(ref rtTemp, rtUpscaled.rt.descriptor, name: "_TemporaryColorTexture");
+      }
     }
 
     public override void Execute(ScriptableRenderContext context, ref RenderingData renderingData)
     {
+      if (rtTemp == null)
+      {
+        return;
+      }
+
       CommandBuffer cmd = CommandBufferPool.Get();
 
       using (new ProfilingScope(cmd, profilingSampler))
@@ -63,9 +72,7 @@ public class AfterUpscaleFullScreenPassFeature : ScriptableRendererFeature
 
   public override void AddRenderPasses(ScriptableRenderer renderer, ref RenderingData renderingData)
   {
-    if (renderingData.cameraData.cameraType == CameraType.Game) {
-      renderer.EnqueuePass(pass);
-    }
+    renderer.EnqueuePass(pass);
   }
 
   protected override void Dispose(bool disposing)
