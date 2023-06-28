@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Cinemachine;
 
 // The scene loading coroutine must be done on this monobehaviour
 // because it will persist across scenes.  If we were to start the scene load
@@ -46,6 +47,11 @@ public class SceneTransitionOverlay : MonoBehaviour
   private void MovePlayerToSceneEntrance(string fromRoom)
   {
     GameObject player = GameObject.FindGameObjectWithTag("Player");
+    GameObject vCam = GameObject.FindGameObjectWithTag("MainVirtualCamera");
+    GameObject grid = GameObject.FindGameObjectWithTag("Grid");
+    VirtualCameraEffects vCamEffects = vCam.GetComponent<VirtualCameraEffects>();
+    CinemachineConfiner2D confiner = vCam.GetComponent<CinemachineConfiner2D>();
+    PolygonCollider2D polygonCollider = grid.GetComponent<PolygonCollider2D>();
     GameObject[] sceneTransitionTriggers = GameObject.FindGameObjectsWithTag("SceneTransitionTrigger");
 
     foreach (GameObject sceneTransitionTrigger in sceneTransitionTriggers)
@@ -55,6 +61,8 @@ public class SceneTransitionOverlay : MonoBehaviour
       {
         Vector2 offset = GetOffsetOppositeToExitDir(transitionComponent.ExitDir);
         player.transform.position = sceneTransitionTrigger.transform.position + (Vector3)offset;
+        confiner.m_BoundingShape2D = polygonCollider;
+        vCamEffects.ForcePosition(new Vector2(player.transform.position.x, player.transform.position.y));
         return;
       }
     }
