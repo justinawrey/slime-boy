@@ -18028,7 +18028,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 780746210806762854, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.2252562
+      value: -4.174363
       objectReference: {fileID: 0}
     - target: {fileID: 780746210806762854, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -18089,18 +18089,6 @@ PrefabInstance:
     - target: {fileID: 3877386891785450139, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4524181675838653241, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
-      propertyPath: m_DeadZoneHeight
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4524181675838653241, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
-      propertyPath: m_SoftZoneHeight
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4524181675838653241, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
-      propertyPath: m_TrackedObjectOffset.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5113072991074251889, guid: e6978c22db70144b0a5c3a8c847466d6, type: 3}
       propertyPath: m_Name

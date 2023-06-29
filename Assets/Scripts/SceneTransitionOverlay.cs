@@ -62,6 +62,7 @@ public class SceneTransitionOverlay : MonoBehaviour
         Vector2 offset = GetOffsetOppositeToExitDir(transitionComponent.ExitDir);
         player.transform.position = sceneTransitionTrigger.transform.position + (Vector3)offset;
         confiner.m_BoundingShape2D = polygonCollider;
+        confiner.InvalidateCache();
         vCamEffects.ForcePosition(new Vector2(player.transform.position.x, player.transform.position.y));
         return;
       }

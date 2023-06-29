@@ -62,6 +62,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _ManualScale: {r: 0.88495576, g: 0.7350689, b: 0, a: 0}
+    - _ManualScale: {r: 5, g: 5, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
